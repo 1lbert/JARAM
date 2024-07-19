@@ -1,0 +1,49 @@
+section class="front-page">
+
+            <div class="container">
+                <div class="img-container">
+                    <img style="width: 50vh" src="./images/Telecom Image 1.jfif" alt="Telecom-image">
+                </div>
+                <div class="text-container">
+                    <h4>ABOUT US</h4>
+                    <h3>Welcome to JARAM Engineering Services</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis numquam ratione iste eaque velit doloremque maxime, consequuntur, reprehenderit a vero laudantium vitae, doloribus voluptatum expedita distinctio hic earum dolores iure quae? Quis voluptate beatae itaque tenetur earum asperiores quam cumque facere atque? Necessitatibus deleniti magnam deserunt labore culpa, corporis eaque!</p>
+                    <a href="#" class="btn">view all</a>
+                </div>
+            </div>
+
+            <div class="container">
+                <div class="text-container">
+                    <h3>Project Management and Project Engineering</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis numquam ratione iste eaque velit doloremque maxime, consequuntur, reprehenderit a vero laudantium vitae, doloribus voluptatum expedita distinctio hic earum dolores iure quae? Quis voluptate beatae itaque tenetur earum asperiores quam cumque facere atque? Necessitatibus deleniti magnam deserunt labore culpa, corporis eaque!</p>
+                    <a href="#" class="btn">view all</a>
+                </div>
+                <div class="img-container">
+                    <img style="width: 50vh" src="./images/Telecom Image 2.jfif" alt="Telecom-image">
+                </div>
+            </div>  
+
+            <div class="container">
+                <div class="img-container">
+                    <img style="width: 50vh" src="./images/Telecom Image 3.jfif" alt="Telecom-image">
+                </div>
+                <div class="text-container">
+                    <h3>OSP Engineering Design and Planning</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis numquam ratione iste eaque velit doloremque maxime, consequuntur, reprehenderit a vero laudantium vitae, doloribus voluptatum expedita distinctio hic earum dolores iure quae? Quis voluptate beatae itaque tenetur earum asperiores quam cumque facere atque? Necessitatibus deleniti magnam deserunt labore culpa, corporis eaque!</p>
+                    <a href="#" class="btn">view all</a>
+                </div>
+            </div>
+
+            <div class="container">
+                <div class="text-container">
+                    <h3>Expertise and Experience</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis numquam ratione iste eaque velit doloremque maxime, consequuntur, reprehenderit a vero laudantium vitae, doloribus voluptatum expedita distinctio hic earum dolores iure quae? Quis voluptate beatae itaque tenetur earum asperiores quam cumque facere atque? Necessitatibus deleniti magnam deserunt labore culpa, corporis eaque!</p>
+                    <a href="#" class="btn">view all</a>
+                </div>
+                <div class="img-container">
+                    <img style="width: 50vh" src="./images/Telecom Image 4.jfif" alt="Telecom-image">
+                </div>
+            </div>  
+        </section>
+
+        
